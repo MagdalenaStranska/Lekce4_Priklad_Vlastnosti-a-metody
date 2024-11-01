@@ -1,3 +1,10 @@
+// V JavaScriptovém programu si založte proměnnou title a uložte do ní název svého oblíbeného filmu (např. Pán prstenů). Proveďte následující úkoly.
+
+// 1.Vypište do stránky počet znaků názvu.
+// 2.Vypište název filmu převedený na velká písmena.
+// 3.Vypište z názvu prvních pět písmen.
+// 4.Vypište z názvu posledních pět písmen.
+
 const title = 'Hobit - Neočekávaná cesta'
 document.body.innerHTML += title;
 document.body.innerHTML += '<br>';
