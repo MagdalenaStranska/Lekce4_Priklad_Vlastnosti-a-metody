@@ -1,0 +1,1 @@
+# Lekce4_Priklad_Vlastnosti-a-metody
